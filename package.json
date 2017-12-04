@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-luke",
+  "version": "1.0.0",
+  "description": "Prints Hello World!",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luke-6723/hello-world.git"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "Luke Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luke-6723/hello-world/issues"
+  },
+  "homepage": "https://github.com/Luke-6723/hello-world#readme"
+}
