@@ -1,6 +1,6 @@
 {
   "name": "hello-world-luke",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prints Hello World!",
   "main": "helloworld.js",
   "scripts": {
